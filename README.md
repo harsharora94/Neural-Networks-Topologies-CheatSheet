@@ -6,3 +6,6 @@ This useful cheatsheet which is on Neural Network topologies, compiled by Fjodor
 Visit below link for detailed explanation:
 
 [Complete Chart of Neural Networks Explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+
+
+![NN Cheatsheet](./CheatSheet.png)
